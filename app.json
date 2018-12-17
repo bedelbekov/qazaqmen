@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "sdkVersion": "27.0.0",
+    "version": "1.0.0",
+    "name": "QazaqMen",
+    "slug": "qazaqmen",
+    "icon": "./app/components/images/logo/icon.png",
+    "orientation": "portrait",
+    "splash": {
+      "image": "./app/components/images/loadingpage/launchScreen.png",
+      "resizeMode": "cover"
+    },
+    "android": {
+      "package": "com.qazaqmen.qazaqmen",
+      "permissions": [],
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.qazaqmen.qazaqmen",
+      "supportsTablet": true,
+      "buildNumber": "3"
+    },
+    "packagerOpts": {
+      "nonPersistent": "--nonPersistent"
+    }
+  }
+}
